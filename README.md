@@ -1,10 +1,8 @@
 ##Getting and Cleaning Data Course Project
 
-### Eros Espínola González
-
 This repository hosts the R script and documentation files for the Getting and Cleaning Data course.
 
-Used dataset: Human Activity Recognition Using Smartphones - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Used dataset: Human Activity Recognition Using Smartphones http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ### Files
 
@@ -18,3 +16,5 @@ Used dataset: Human Activity Recognition Using Smartphones - http://archive.ics.
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 `tidy_data.txt` result generated from the script.
+
+#### Eros Espínola González
