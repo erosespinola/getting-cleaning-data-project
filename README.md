@@ -8,7 +8,7 @@ Used dataset: Human Activity Recognition Using Smartphones http://archive.ics.uc
 
 `CodeBook.md` describes the variables, data, and work performed to clean up the data.
 
-`run_analysis.R` contains the script to perform the following 5 steps:
+`run_analysis.R` contains the script that performs the following 5 steps:
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement. 
 - Uses descriptive activity names to name the activities in the data set
@@ -17,4 +17,4 @@ Used dataset: Human Activity Recognition Using Smartphones http://archive.ics.uc
 
 `tidy_data.txt` result generated from the script.
 
-#### Eros Espínola González
+###### Eros Espínola González
